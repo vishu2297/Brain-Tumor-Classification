@@ -13,11 +13,12 @@ In this project I use these tools and libraries:
 - OpenCV – 4.5.2
 ## Steps to Develop Brain Tumor Classifier in Machine Learning
 My approach to building the classifier like:
-Perform Exploratory Data Analysis (EDA) on brain tumor dataset
-Build a CNN model
-Train and Evaluate our model on the dataset
+- Perform Exploratory Data Analysis (EDA) on brain tumor dataset
+- Build a CNN model
+- Train and Evaluate our model on the dataset
 ### CNN - : 
-A CNN (Convolutional Neural Network) is a deep neural network widely used for analyzing visual images. These types of networks work well for tasks like image classification and detection, image segmentation. There are 2 main parts of a CNN:
+A CNN (Convolutional Neural Network) is a deep neural network widely used for analyzing visual images. These types of networks work well for tasks like image classification and detection, image segmentation.
+There are 2 main parts of a CNN:
 - A convolutional layer that does the job of feature extraction
 - A fully connected layer at the end that utilizes the output of the convolutional layers and predicts the class of the image.
 
