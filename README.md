@@ -4,7 +4,7 @@
 In this machine learning project, we build a classifier to detect the brain tumor from the MRI scan images. By now it is obvious that this is a binary classification problem.
 ## Tools and Libraries used
 In this project I use these tools and libraries:
-- Python – 3.x
+- Python – 3.8.8
 - TensorFlow – 2.4.1
 - Keras – 2.4.0
 - Numpy – 1.19.2
