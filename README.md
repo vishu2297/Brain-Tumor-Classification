@@ -20,6 +20,7 @@ Train and Evaluate our model on the dataset
 A Convolutional Neural Network or CNN for short is a deep neural network widely used for analyzing visual images. These types of networks work well for tasks like image classification and detection, image segmentation. There are 2 main parts of a CNN:
 - A convolutional layer that does the job of feature extraction
 - A fully connected layer at the end that utilizes the output of the convolutional layers and predicts the class of the image.
+
 For the brain tumor project, we are using the VGG16 state-of-the-art network model. There are a number of pre-trained models available for use in Keras.
 When I trained the model I got 92.31% accuracy on the test set.
 ## Summary
