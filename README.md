@@ -23,6 +23,6 @@ There are 2 main parts of a CNN:
 - A fully connected layer at the end that utilizes the output of the convolutional layers and predicts the class of the image.
 
 For the brain tumor project, we are using the VGG16 state-of-the-art network model. There are a number of pre-trained models available for use in Keras.
-When I trained the model I got 92.31% accuracy on the test set.
+When I trained the model I got 96.15% accuracy on the test set.
 ## Summary
-In brain tumor classification using machine learning, we built a binary classifier to detect brain tumors from MRI scan images. We built our classifier using transfer learning and obtained an accuracy of 92.31% and visualized our model’s overall performance.
+In brain tumor classification using machine learning, we built a binary classifier to detect brain tumors from MRI scan images. We built our classifier using transfer learning and obtained an accuracy of 96.15% and visualized our model’s overall performance.
